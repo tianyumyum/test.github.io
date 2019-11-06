@@ -15,6 +15,8 @@ layout: default
 
 ## News
 
+None
+
 ## Bio
 
 *   I am a PhD Candidate (from 2018.09) in the [Chinese Information Processing Laboratory](http://www.icip.org.cn/) at the [Institute of Software, Chinese Academy of Sciences](http://www.iscas.ac.cn/), under the Supervion of Professor [Xianpei Han](http://www.icip.org.cn/team/hanxianpei/) and Professor [Le Sun](http://www.icip.org.cn/index.php/team/sunle/).
@@ -22,7 +24,15 @@ layout: default
 
 ## Research Interests
 
+*   Information Extraction
+*   Event Net
+*   Other Related topics in NLP and Machine Learning
+
 ## Publications
+
+*   
+*   **Jialong Tang**, Ziyao Lu, Jinsong Su, Yubin Ge, Linfeng Song, Le Sun, Jiebo Luo. [Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis](https://www.aclweb.org/anthology/P19-1053.pdf). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL2019a).
+*   Other Related topics in NLP and Machine Learning
 
 ## Thesis
 
