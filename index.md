@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+## Informations
 
 **Ph.D. Candidate, Natural Language Processing**
 
@@ -12,15 +13,24 @@ layout: default
 
 **Contact me:** jialong2019{at}iscas{dot}ac{dot}cn
 
-# Bio
+## News
 
-# Research Interests
+## Bio
 
-# Publications
+*   I am a PhD Candidate (from 2018.09) in the [Chinese Information Processing Laboratory](http://www.icip.org.cn/) at the [Institute of Software, Chinese Academy of Sciences](http://www.iscas.ac.cn/), under the Supervion of Professor [Xianpei Han](http://www.icip.org.cn/team/hanxianpei/) and Professor [Le Sun](http://www.icip.org.cn/index.php/team/sunle/).
+*   I got my Bachelor degree from [Software School](http://software.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/) under the Supervion of [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm) in June, 2018. My Bachelor Thesis focus on [Image Caption](https://www.sciencedirect.com/science/article/pii/S0925231219311312).
 
-# Thesis
+## Research Interests
 
-# Awards & Honors
+## Publications
+
+## Thesis
+
+## Awards & Honors
+
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
