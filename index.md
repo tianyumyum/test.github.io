@@ -39,4 +39,4 @@ layout: default
 
 *   Merit Student of University of Chinese Academy of Sciences, 2018-2019.
 *   Anniversary scholarship (CCB scholarship) of Xiamen University, 2016.
-*   First prize of Fujian Province in China Undergraduate Mathematical Contest in Modeling, 2016
+*   First prize of Fujian Province in China Undergraduate Mathematical Contest in Modeling, 2016.
