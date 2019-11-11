@@ -13,7 +13,7 @@ layout: default
 
 ## News
 
-*   None
+*   None.
 
 ## Bio
 
@@ -37,6 +37,7 @@ layout: default
 
 ## Awards & Honors
 
+*   China National Master Scholarship, 2019.
 *   Merit Student of University of Chinese Academy of Sciences, 2018-2019.
 *   Anniversary scholarship (CCB scholarship) of Xiamen University, 2016.
 *   First prize of Fujian Province in China Undergraduate Mathematical Contest in Modeling, 2016.
