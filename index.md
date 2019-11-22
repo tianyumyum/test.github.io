@@ -13,7 +13,7 @@ layout: default
 
 ## News
 
-*   None.
+*   I am glad to get China National Master Scholarship, 2019! :-)
 
 ## Bio
 
@@ -29,7 +29,7 @@ layout: default
 ## Publications
 
 *   **Jialong Tang**, Ziyao Lu, Jinsong Su, Yubin Ge, Linfeng Song, Le Sun, Jiebo Luo. [Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis](https://www.aclweb.org/anthology/P19-1053.pdf). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL2019). \[[src](https://github.com/TangJiaLong/PSSAttention)\]
-*   Jinsong Su, **Jialong Tang**, Ziyao Lu, Xianpei Han, Haiying Zhang. [A Neural Image Captioning Model with Caption-to-Images Semantic Constructor](https://www.sciencedirect.com/science/article/pii/S0925231219311312). In Neurocomputing. \[[src](https://github.com/TangJiaLong/ICSemanticReConstructor)\]
+*   Jinsong Su, **Jialong Tang**, Ziyao Lu, Xianpei Han, Haiying Zhang. [A Neural Image Captioning Model with Caption-to-Images Semantic Constructor](https://www.sciencedirect.com/science/article/pii/S0925231219311312). In Neurocomputing2019. \[[src](https://github.com/TangJiaLong/ICSemanticReConstructor)\]
 
 ## Thesis
 
