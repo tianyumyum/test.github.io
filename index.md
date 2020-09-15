@@ -13,7 +13,7 @@ layout: default
 
 ## News
 
-*   I am glad to get China National Master Scholarship, 2019! :-)
+*   2020-09-15 Two papers accepted by EMNLP2020! （Includes one Findings paper.）
 
 ## Bio
 
@@ -22,12 +22,14 @@ layout: default
 
 ## Research Interests
 
-*   Information Extraction
 *   Event Net
+*   Information Extraction
 *   Other Related topics in NLP and Machine Learning
 
 ## Publications
 
+*   Hongyu Lin, Yaojie Lu, **Jialong Tang**, Xianpei Han, Le Sun, Zhicheng Wei, Nicholas Jing Yuan. Rigorous Study on Named Entity Recognition: Can Fine-tuning Pretrained Model Lead to the Promised Land?. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP2020). (Paper and source will be available soon.)
+*   **Jialong Tang**, Yaojie Lu, Hongyu Lin, Xianpei Han, Le Sun, Xinyan Xiao, Hua Wu. Syntactic and Semantic-driven Learning for Open Information Extraction. Findings of ACL: EMNLP 2020. (Paper and source will be available soon.)
 *   **Jialong Tang**, Ziyao Lu, Jinsong Su, Yubin Ge, Linfeng Song, Le Sun, Jiebo Luo. [Progressive Self-Supervised Attention Learning for Aspect-Level Sentiment Analysis](https://www.aclweb.org/anthology/P19-1053.pdf). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL2019). \[[src](https://github.com/TangJiaLong/PSSAttention)\]
 *   Jinsong Su, **Jialong Tang**, Ziyao Lu, Xianpei Han, Haiying Zhang. [A Neural Image Captioning Model with Caption-to-Images Semantic Constructor](https://www.sciencedirect.com/science/article/pii/S0925231219311312). In Neurocomputing2019. \[[src](https://github.com/TangJiaLong/ICSemanticReConstructor)\]
 
