@@ -13,7 +13,7 @@ layout: default
 
 ## News
 
-*   2021-01-04 One papers accepted by Artificial Intelligence!
+*   2021-01-04 One paper is accepted by Artificial Intelligence!
 
 ## Bio
 
