@@ -39,7 +39,7 @@ with Progressive Self-supervised Attention Learning. In Artificial Intelligence 
 
 *   Research and Implementation of Image Caption model. Bachelor Thesis. 2018.
 
-## Awards & Honors
+## Selected Awards & Honors
 
 *   China National Master Scholarship, 2019.
 *   Merit Student of University of Chinese Academy of Sciences, 2018-2019, 2019-2020.
