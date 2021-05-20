@@ -43,7 +43,8 @@ with Progressive Self-supervised Attention Learning](https://www.sciencedirect.c
 
 ## Selected Awards & Honors
 
-*   China National Master Scholarship, 2019.
+*   Pacemaker to Merit Student of University of Chinese Academy of Sciences (Top 1%), 2021.
+*   National Scholarship (Top 1%), 2019.
 *   Merit Student of University of Chinese Academy of Sciences, 2018-2019, 2019-2020.
 *   Anniversary scholarship (CCB scholarship) of Xiamen University, 2016.
-*   First prize of Fujian Province in China Undergraduate Mathematical Contest in Modeling, 2016.
+*   First Prize of Fujian Province in Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), 2016.
