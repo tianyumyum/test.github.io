@@ -11,6 +11,8 @@ layout: default
 
 *   **Contact me:** jialong2019{at}iscas{dot}ac{dot}cn
 
+*   **[Google Scholar](https://scholar.google.com/citations?user=J57FNKcAAAAJ)**; **[Semantic Scholar](https://www.semanticscholar.org/author/Jialong-Tang/150164718)**; **[DBLP](https://dblp.org/pid/242/7975.html)**
+
 ## News
 
 *   2021-05-06 Two papers are accepted by ACL2021!
