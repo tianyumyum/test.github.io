@@ -30,7 +30,7 @@ layout: default
 
 ## Publications
 
-*   **\[CCF-A\]** Yaojie Lu, Hongyu Lin, **Jialong Tang**, Xianpei Han, Le Sun. End-to-End Neural Event Coreference Resolution. To appear in Artificial Intelligence.
+*   **\[CCF-A\]** Yaojie Lu, Hongyu Lin, **Jialong Tang**, Xianpei Han, Le Sun. [End-to-End Neural Event Coreference Resolution](https://www.sciencedirect.com/science/article/pii/S0004370221001831). In Artificial Intelligence 2022.
 *   **\[CCF-A\]** **Jialong Tang**, Hongyu Lin, Meng Liao, Yaojie Lu, Xianpei Han, Le Sun, Weijian Xie and Jin Xu. [From Discourse to Narrative: Knowledge Projection for Event Relation Extraction](https://aclanthology.org/2021.acl-long.60.pdf). In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL2021). \[[src](https://github.com/TangJiaLong/Knowledge-Projection-for-ERE)\] 
 *   **\[CCF-A\]** Yaojie Lu, Hongyu Lin, Jin Xu, Xianpei Han, **Jialong Tang**, Annan Li, Le Sun, Meng Liao and Shaoyi Chen. [Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction](https://aclanthology.org/2021.acl-long.217.pdf). In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL2021). 
 *   **\[CCF-A\]** Jinsong Su (equal contribution), **Jialong Tang (equal contribution)**, Hui Jiang, Ziyao Lu, Yubin Ge, Linfeng Song, Deyi Xiong, Le Sun, Jiebo Luo. [Enhanced Aspect-Based Sentiment Analysis Models with Progressive Self-supervised Attention Learning](https://www.sciencedirect.com/science/article/pii/S000437022100028X). In Artificial Intelligence 2021. \[[src](https://github.com/TangJiaLong/PSSAttention)\] 
