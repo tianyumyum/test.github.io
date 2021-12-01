@@ -15,6 +15,7 @@ layout: default
 
 ## News
 
+*   2021-12-01 One paper is accepted by AAAI2022!
 *   2021-05-06 Two papers are accepted by ACL2021!
 
 ## Bio
@@ -30,6 +31,7 @@ layout: default
 
 ## Publications
 
+*   **\[CCF-A\]** **Jialong Tang**, Hongyu Lin, Meng Liao, Yaojie Lu, Xianpei Han, Le Sun, Weijian Xie and Jin Xu. Procedural Text Understanding via Scene-wise Evolution. To appear in the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI2022).
 *   **\[CCF-A\]** Yaojie Lu, Hongyu Lin, **Jialong Tang**, Xianpei Han, Le Sun. [End-to-End Neural Event Coreference Resolution](https://www.sciencedirect.com/science/article/pii/S0004370221001831). In Artificial Intelligence 2022.
 *   **\[CCF-A\]** **Jialong Tang**, Hongyu Lin, Meng Liao, Yaojie Lu, Xianpei Han, Le Sun, Weijian Xie and Jin Xu. [From Discourse to Narrative: Knowledge Projection for Event Relation Extraction](https://aclanthology.org/2021.acl-long.60.pdf). In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL2021). \[[src](https://github.com/TangJiaLong/Knowledge-Projection-for-ERE)\] 
 *   **\[CCF-A\]** Yaojie Lu, Hongyu Lin, Jin Xu, Xianpei Han, **Jialong Tang**, Annan Li, Le Sun, Meng Liao and Shaoyi Chen. [Text2Event: Controllable Sequence-to-Structure Generation for End-to-end Event Extraction](https://aclanthology.org/2021.acl-long.217.pdf). In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL2021). 
