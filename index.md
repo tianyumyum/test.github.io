@@ -3,9 +3,13 @@ layout: default
 ---
 ## Informations
 
-*   **Ph.D. Candidate, Natural Language Processing**,
+*   **Ph.D. Candidate (2018-now), Natural Language Processing**,
 [Chinese Information Processing Laboratory](http://www.icip.org.cn/),
 [Institute of Software, Chinese Academy of Sciences](http://www.iscas.ac.cn/)
+
+*   **B.Eng. (2014-2018), Software Engineering**,
+[Software School](http://software.xmu.edu.cn/)
+[Xiamen University](https://www.xmu.edu.cn/)
 
 *   **Address:** Room 1201, 4#  South  Fourth Street, Zhong Guan Cun Haidian District, Beijing
 
@@ -20,14 +24,10 @@ layout: default
 
 ## Bio
 
-*   I am a PhD Candidate (from 2018.09) in the [Chinese Information Processing Laboratory](http://www.icip.org.cn/) at the [Institute of Software, Chinese Academy of Sciences](http://www.iscas.ac.cn/), under the supervision of Professor [Xianpei Han](http://www.icip.org.cn/team/hanxianpei/) and Professor [Le Sun](http://www.icip.org.cn/index.php/team/sunle/).
-*   I got my Bachelor degree from [Software School](http://software.xmu.edu.cn/), [Xiamen University](https://www.xmu.edu.cn/) under the Supervision of [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm) in June 2018. My Bachelor Thesis focuses on [Image Caption](https://www.sciencedirect.com/science/article/pii/S0925231219311312).
-
-## Research Interests
-
-*   Event Net
-*   Information Extraction
-*   Other Related topics in NLP and Machine Learning
+I am currently a Ph.D. student under the supervision of Professor [Xianpei Han](http://www.icip.org.cn/team/hanxianpei/) and Professor [Le Sun](http://www.icip.org.cn/index.php/team/sunle/). 
+I got my Bachelor degree under the Supervision of [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm) in June 2018. 
+My research interests mainly lie in **Event-Centric** Natural Language Processing, but also include Self-supervised Learning and Natural Language Generation. 
+Up to now, I have published several papers in the world top conferences (e.g., ACL, EMNLP, AAAI) and the world top journal (e.g. AIJ).
 
 ## Publications
 
